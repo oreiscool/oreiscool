@@ -1,6 +1,8 @@
 # Hey, I'm Ore 👋
 
-I'm a student getting started with software development, focused on building mobile apps with Flutter.
+Developer who builds things. Mobile apps mostly, whatever's interesting always.
+
+Currently building **[Stackd](https://github.com/oreiscool/stackd)** — a mobile-first Telegram bot builder. Build, deploy, and own your bots entirely from your phone.
 
 ## Tech Stack
 
@@ -8,23 +10,25 @@ I'm a student getting started with software development, focused on building mob
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=flat&logoColor=white)
 
-I work with **Dart** and **Flutter**, and I've been getting hands-on with Riverpod, Drift (SQLite), and Firebase.
+**Flutter · Dart · Riverpod · Drift (SQLite) · Firebase · Clean Architecture**
 
-## Projects I've Built
+Currently learning: Python · FastAPI · Docker
+
+## Projects
+
+### [Stackd](https://github.com/oreiscool/stackd) *(in progress)*
+Mobile-first Telegram bot builder. Logic Stack UI — build bot logic from your phone, deploy in one tap, export and self-host anytime. No laptop required.
 
 ### [Stash](https://github.com/oreiscool/stash)
-The fastest, most frictionless way for a developer to save and retrieve valuable knowledge. My most ambitious project so far (2 months of work, solo).
+Personal knowledge manager for developers. Auto-categorizes links, code snippets, and notes. Full-text search, tag system, cloud sync, offline support. 2 months, built solo.
 
 ### [Clear Weather](https://github.com/oreiscool/clear_weather)
-Clean, minimal weather app with hourly forecast and location-based updates.
+Minimal weather app with hourly forecasts and location-based updates. Clean Material You UI, offline caching.
 
 ### [Simple Notes](https://github.com/oreiscool/simple_notes)
-A clean, minimalistic note-taking app built with Flutter.
-
-## Currently
-
-Learning more Flutter, one widget at a time.
+Minimalist note-taking with auto-save, pin, search, and dark mode. Local-first with Drift.
 
 ## GitHub Stats
 
@@ -32,14 +36,10 @@ Learning more Flutter, one widget at a time.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oreiscool&layout=compact&theme=dark&hide_border=true)
 
-## When I'm Not Coding
+## Outside of code
 
 I play chess ♟️
 
 ## Get in Touch
 
 📧 adetanoreoluwa1@gmail.com
-
----
-
-*Always learning, always building.*
