@@ -2,7 +2,7 @@
 
 Developer who builds things. Mobile apps mostly, whatever's interesting always.
 
-Currently building **[Stackd](https://github.com/oreiscool/stackd)** — a mobile-first Telegram bot builder. Build, deploy, and own your bots entirely from your phone.
+Currently building **[Stackd](https://github.com/oreiscool)** — a mobile-first Telegram bot builder. Build, deploy, and own your bots entirely from your phone.
 
 ## Tech Stack
 
@@ -18,7 +18,7 @@ Currently learning: Python · FastAPI · Docker
 
 ## Projects
 
-### [Stackd](https://github.com/oreiscool/stackd) *(in progress)*
+### [Stackd](https://github.com/oreiscool) *(in progress)*
 Mobile-first Telegram bot builder. Logic Stack UI — build bot logic from your phone, deploy in one tap, export and self-host anytime. No laptop required.
 
 ### [Stash](https://github.com/oreiscool/stash)
