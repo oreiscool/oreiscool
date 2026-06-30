@@ -21,9 +21,6 @@ Currently learning: Python · FastAPI · Docker
 ### [Snd](https://github.com/oreiscool/snd) *(in progress)*
 A blazing-fast, cross-platform file sender. Works completely offline for local-network transfers, and seamlessly over the internet for distant devices.
 
-### [Stackd](https://github.com/oreiscool) *(in progress)*
-Mobile-first Telegram bot builder. Logic Stack UI — build bot logic from your phone, deploy in one tap, export and self-host anytime. No laptop required.
-
 ### [Stash](https://github.com/oreiscool/stash)
 Personal knowledge manager for developers. Auto-categorizes links, code snippets, and notes. Full-text search, tag system, cloud sync, offline support. 2 months, built solo.
 
