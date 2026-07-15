@@ -2,8 +2,6 @@
 
 Developer who builds things. Mobile apps mostly, whatever's interesting always.
 
-Currently building **[Stackd](https://github.com/oreiscool)** — a mobile-first Telegram bot builder. Build, deploy, and own your bots entirely from your phone.
-
 ## Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
